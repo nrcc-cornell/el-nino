@@ -1,1 +1,1 @@
-An El Niño develops when sea surface temperatures are warmer than average in the equatorial Pacific for an extended time. This is important to North America because El Niño can impact our weather patterns, especially in the winter.
+An El Niño develops when [sea surface temperatures are warmer than average](https://svs.gsfc.nasa.gov/12601/) in the equatorial Pacific for an extended time. This is important to North America because El Niño can impact our weather patterns, especially in the winter.
