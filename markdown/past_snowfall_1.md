@@ -1,0 +1,5 @@
+#### Snowfall
+
+The maps to the right illustrate the snowfall departure for winter during all El Niño years since 1950.
+
+There have been a wide range of snowfall amounts during El Niño winters as snowfall is dependent on multiple factors including storm track. However, parts of the Northeast coast tended to be snowier than normal in about half of all El Niño winters. During most El Niño winters, lake-effect snowfall was below normal in multiple parts of New York and northwestern Pennsylvania. According to [NOAA’s ENSO blog](https://www.climate.gov/news-features/blogs/snow-pain-snow-gain-how-does-el-nino-affect-snowfall-over-north-america), January-March snowfall during El Niño years was generally below normal in northern parts of the Northeast but above normal in southern parts of the region, with the trend being most pronounced during moderate-to-strong events.

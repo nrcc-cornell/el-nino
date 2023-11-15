@@ -1,0 +1,3 @@
+#### Other Influences
+
+Each El Niño is different and other factors can affect winter conditions, such pre-exisiting global snow cover patterns or climate variability associated with the [Arctic Oscillation](https://www.ncdc.noaa.gov/teleconnections/ao/) and [North Atlantic Oscillation](http://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml). For instance, during the winter of 1965-1966, expected El Niño precipitation was subdued due to a strong negative North Atlantic Oscillation. These patterns are less able to be forecast far in advance compared to El Niño, meaning it is uncertain how much they will affect the upcoming winter. 

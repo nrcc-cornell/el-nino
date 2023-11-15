@@ -1,0 +1,1 @@
+Storms that follow a classic nor’easter track from south of Cape Hatteras along the East Coast are the main contributor to this increase. Hirsch et al. (2001) found an additional two storms with this track occur during El Niño winters compared to other winters. Strong El Niño events are particularly associated with this increase. 

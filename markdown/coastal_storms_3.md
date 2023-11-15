@@ -1,0 +1,1 @@
+Significant snow storms such as the Blizzard of ‘58 and a second March 1958 nor’easter occurred in conjunction with El Niño conditions, as did the February 2003 Presidents' Day Storm. Storms such as the "Perfect Storm" in October 1991 brought 15 to 30 foot waves to coastal New England during a strong El Niño.

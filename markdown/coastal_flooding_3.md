@@ -1,0 +1,1 @@
+ The report continues, “This year, the Northeast is predicted to experience between 4 and 10 high tide flood days, representing an approximately 150% increase in flood days since the year 2000. Boston is predicted to experience the region’s highest number of flood days, up to 18.”

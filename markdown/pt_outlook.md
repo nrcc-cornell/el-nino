@@ -1,0 +1,5 @@
+### Winter Temperature and Precipitation Outlooks
+
+As of mid-October, [NOAA's winter outlooks](https://www.cpc.ncep.noaa.gov/) (right) show that above-normal temperatures are favored for the entire Northeast, with the greatest likelihood in portions of northern New England. 
+
+The precipitation outlook indicates that coastal areas from Maryland to Massachusetts could have above-normal precipitation due to a favored storm track across the southern U.S. and up the East Coast. This track generally means limited storms across the northern tier of the U.S. including the Ohio Valley. As such, a drier-than-normal winter is slightly favored for northwestern Pennsylvania and western New York. Additionally, lake-effect snowfall tends to be reduced in these areas during El Niño events. Equal chances of below-, near-, or above-normal precipitation are forecast for the rest of the region.

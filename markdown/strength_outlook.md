@@ -1,0 +1,3 @@
+### El Niño Strength
+
+“Strong” El Niño conditions were present and strengthening in the equatorial Pacific Ocean [during October,](https://www.climate.gov/news-features/blogs/november-2023-el-nino-update-transport-options) with NOAA’s Climate Prediction Center indicating “there is a 35% chance of this event becoming historically strong for the November-January season.” Those strong conditions are expected to persist (greater than 55% chance) through January-March 2024, with El Niño conditions lingering into spring 2024.

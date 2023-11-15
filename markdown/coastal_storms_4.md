@@ -1,0 +1,1 @@
+More recently, the [blizzard of January 2016](http://www.nrcc.cornell.edu/services/special/reports/blizzard2016.pdf) severely impacted the Northeast during one of the strongest El Niños on record.
