@@ -1,1 +1,3 @@
-Typically, in regions closer to the coast, December through February snowfall is as much as 6 inches greater during such winters. In Washington, D.C., eight of the ten greatest 1-day snowfalls since 1950 have occurred during El Niño winters, indicated by the red boxes in the table on the right. However, individual storm tracks can influence where precipitation falls as rain versus snow.
+During almost every moderate-to-strong El Niño winter from 1959 to 2023, the lake-effect region in New York saw reduced snowfall amounts. In fact, the least snowy winter on record since 1950 for Buffalo, Syracuse, and Watertown continues to be 1982-83 during one of the strongest El Niños on record.
+
+*This map is based on <a href="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/" target="_blank">Oceanic Niño Index (ONI)</a> and does not take into account long-term tends.*

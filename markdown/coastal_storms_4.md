@@ -1,1 +1,1 @@
-More recently, the [blizzard of January 2016](http://www.nrcc.cornell.edu/services/special/reports/blizzard2016.pdf) severely impacted the Northeast during one of the strongest El Niños on record.
+During one of the strongest El Niños on record, the [blizzard of January 2016](http://www.nrcc.cornell.edu/services/special/reports/blizzard2016.pdf) produced over 30 inches of snow, wind gusts of over 60 mph, and record-high water levels along the coast, causing significant impacts in the Northeast.
